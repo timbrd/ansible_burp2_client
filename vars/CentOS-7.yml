@@ -16,5 +16,5 @@ build_dependencies:
   - autoconf
   - automake
   - libtool
-  - autoreconf
+  - dh-autoreconf
 
