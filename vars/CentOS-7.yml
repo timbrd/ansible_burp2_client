@@ -1,0 +1,20 @@
+---
+# file: vars/Ubuntu.yml
+
+build_dependencies:
+  - make
+  - pkgconfig
+  - check
+  - gcc-c++
+  - librsync-devel
+  - zlib-devel
+  - openssl-devel
+  - ncurses-devel
+  - libacl-devel
+  - uthash-devel
+  - yajl-devel
+  - autoconf
+  - automake
+  - libtool
+  - autoreconf
+
